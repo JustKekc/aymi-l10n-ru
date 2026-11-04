@@ -86,7 +86,7 @@
     "I take in the view.",
     "",
     "Other times, it feels like",
-    "it just keeps moving."
+    "it just keeps moving.",
   ],
 
   // ---------------------------------------------------------------
@@ -95,16 +95,12 @@
   // All lowercase on purpose.
   // ---------------------------------------------------------------
   "THOUGHTS_INSTRUCTION": "Drag the thoughts away to wake up.",
-  "THOUGHTS_BABY": [
-    "why is the sky blue?",
-    "where is my mom?",
-    "i am hungry"
-  ],
+  "THOUGHTS_BABY": ["why is the sky blue?", "where is my mom?", "i am hungry"],
   "THOUGHTS_TEENAGER": [
     "do they like me?",
     "what's due tomorrow?",
     "i wonder what she thinks of me.",
-    "why do i feel so different"
+    "why do i feel so different",
   ],
   "THOUGHTS_ADULT": [
     "what am i doing with my life?",
@@ -117,7 +113,7 @@
     "should i break up?",
     "i feel empty",
     "i feel like I'm doing this alone",
-    "why am i so anxious"
+    "why am i so anxious",
   ],
 
   // ---------------------------------------------------------------
@@ -128,7 +124,7 @@
     "was of three women",
     "looking down at me.",
     "",
-    "They poked at my face."
+    "They poked at my face.",
   ],
   "DRAWING_KIDS_DONE": "I like the way the pencil feels against the paper.",
   "DRAWING_TEENAGER_DONE": "It's easy when there's guidance.",
@@ -307,7 +303,7 @@
     "",
     "One day, in the future,",
     "I will look back",
-    "and remember this moment."
+    "and remember this moment.",
   ],
 
   // A parent's voice. The grammar is broken on purpose, it is an
@@ -347,18 +343,12 @@
     "I am celebrating my 25th birthday.",
     "I just moved cities.",
     "I am celebrating my 29th birthday.",
-    "Why do all the days blend together?"
+    "Why do all the days blend together?",
   ],
   // "Why does time keep moving?" shown one word per screen, faster
   // and faster. You can split your sentence into more or fewer
   // pieces, each entry is its own screen.
-  "WHY_DOES_TIME_KEEP_MOVING": [
-    "Why",
-    "Does",
-    "Time",
-    "Keep",
-    "Moving?"
-  ],
+  "WHY_DOES_TIME_KEEP_MOVING": ["Why", "Does", "Time", "Keep", "Moving?"],
 
   // ---------------------------------------------------------------
   // Slowing down
@@ -374,7 +364,7 @@
     "How are you feeling?",
     "Frustration?",
     "Anxiety?",
-    "Apathy?"
+    "Apathy?",
   ],
   // This is one long thought broken up across screens, so the last
   // two entries are one sentence split in half.
@@ -388,7 +378,7 @@
     "I keep going back to old memories.",
     "Old video games.",
     "When time seemed to stretch infinitely in both directions,",
-    "and the days lasted forever."
+    "and the days lasted forever.",
   ],
   "PERMISSION_TO_FEEL_SAD": "I give myself permission to feel sad.",
   "PERMISSION_TO_FEEL_HAPPY": "I give myself permission to feel happy.",
@@ -401,20 +391,20 @@
   "SCAR_WHEN_I_SEE_IT": [
     "When I see it,",
     "I am reminded of that moment.",
-    "As if the memory pierces through time."
+    "As if the memory pierces through time.",
   ],
   "SCAR_THE_EMPTINESS": [
     "The emptiness you feel is as real",
-    "as the scar on your hand."
+    "as the scar on your hand.",
   ],
   "SCAR_STRETCHING_BACK": ["Stretching back towards childhood."],
   "SCAR_PAIN_REPEATS": [
     "Pain repeats and flows.",
-    "From one person to the next."
+    "From one person to the next.",
   ],
   "SCAR_UNFORTUNATE_RESPONSIBILITY": [
     "It is an unfortunate responsibility",
-    "to stop the flow of pain."
+    "to stop the flow of pain.",
   ],
   "SCAR_YOU_ALONE": ["But you alone make that choice."],
   // These float by in the background on small single-line signs,
@@ -424,7 +414,7 @@
     "I want to feel belonging",
     "I want to feel community",
     "I want to feel seen",
-    "I want to feel heard"
+    "I want to feel heard",
   ],
 
   // ---------------------------------------------------------------
@@ -432,25 +422,19 @@
   // ---------------------------------------------------------------
   "THERAPY_WHERE_ARE_YOU_NOW": ["Where are you now?"],
   // The player's voice.
-  "THERAPY_ISNT_THIS_ME": [
-    "Isn't this me?",
-    "A floating blob of worries?"
-  ],
-  "THERAPY_NO_I_SEE_YOU": [
-    "No... I see you...",
-    "Right here."
-  ],
+  "THERAPY_ISNT_THIS_ME": ["Isn't this me?", "A floating blob of worries?"],
+  "THERAPY_NO_I_SEE_YOU": ["No... I see you...", "Right here."],
   "THERAPY_THE_YOU_THAT_EXISTS_INSIDE": ["The you that exists inside."],
   "THERAPY_YOUR_THOUGHTS_ARE_VOICES": [
-    "Your thoughts are the disembodied voices of people in the past, echoing through time."
+    "Your thoughts are the disembodied voices of people in the past, echoing through time.",
   ],
   "THERAPY_YOU_ARE_NOT_YOUR_THOUGHTS": [
     "You are not your thoughts or feelings.",
-    "You are something much lighter."
+    "You are something much lighter.",
   ],
   "THERAPY_DRAG_THE_THOUGHTS_AWAY": [
     "Drag the thoughts away,",
-    "to let go of them."
+    "to let go of them.",
   ],
 
   // Each thought is dragged away, then its response is shown.
@@ -489,7 +473,9 @@
   "THERAPY_OUR_TIME_IS_ALMOST_UP": "Our time is almost up.",
   "THERAPY_WHAT_ARE_YOU_THINKING_NOW": "What are you thinking now?",
   // The player's voice.
-  "THERAPY_IT_TOOK_ME_2_YEARS": ["It took me 2 years to cry about Stephanie..."],
+  "THERAPY_IT_TOOK_ME_2_YEARS": [
+    "It took me 2 years to cry about Stephanie...",
+  ],
   "THERAPY_THESE_THINGS_TAKE_TIME": ["These things take time."],
   // The player's voice.
   "THERAPY_WILL_I_EVER_GET_BETTER": ["Will I ever get better?"],
@@ -500,7 +486,7 @@
     "",
     "Reaching out for help is the first step.",
     "",
-    "I'll see you next week :)"
+    "I'll see you next week :)",
   ],
 
   // The video call window after the session.
@@ -521,26 +507,80 @@
     "pocket universe.",
     "",
     "Floating in space,",
-    "looping forever."
+    "looping forever.",
   ],
   "SOMEWHERE_OUT_THERE_CLASS": [
     "Somewhere out there,",
     "I am forever",
     "sitting in class",
-    "waiting for the bell to ring."
+    "waiting for the bell to ring.",
   ],
   "SOMEWHERE_OUT_THERE_AUNTS": [
     "Somewhere out there,",
     "I am forever",
     "being poked and prodded",
-    "by my aunts."
+    "by my aunts.",
   ],
   "SOMEWHERE_OUT_THERE_VIDEO_GAME": [
     "Somewhere out there,",
     "I am forever",
     "playing an online video game",
-    "with my friend."
+    "with my friend.",
   ],
+
+  // ---------------------------------------------------------------
+  // Homework (Added 4/11/26)
+  // ---------------------------------------------------------------
+  "HOMEWORK_PORTAL_DUE": "Due",
+  "HOMEWORK_PORTAL_POINTS": "Points",
+  "HOMEWORK_PORTAL_TURNED_IN": "Turned In!",
+  "HOMEWORK_PORTAL_LATE": "late",
+  "HOMEWORK_PORTAL_SUBMISSION_DETAILS": "Submission Details",
+  "HOMEWORK_PORTAL_DOWNLOAD": "Download {0}",
+  "HOMEWORK_PORTAL_GRADE": "Grade",
+  "HOMEWORK_PORTAL_PTS_POSSIBLE": "{0} pts possible",
+  "HOMEWORK_PORTAL_FILE_UPLOAD": "File Upload",
+  "HOMEWORK_PORTAL_UPLOAD_A_FILE_OR": "Upload a file or choose an existing file.",
+  "HOMEWORK_PORTAL_CHOOSE_FILE": "Choose File",
+  "HOMEWORK_PORTAL_SUBMIT_ASSIGNMENT": "Submit Assignment",
+
+  "HOMEWORK_WEEK4_TITLE": "Week 4 Assignment",
+  "HOMEWORK_WEEK4_DUE_DATE": "Sept 4 by 11:59 AM",
+  "HOMEWORK_WEEK4_SUBMISSION_DATE": "Sept 5 at 1:05 AM",
+  // Filename is FILE_TEENAGER_1 but with space removed.
+
+  "HOMEWORK_OTHELLO_TITLE": "Othello - Chapter 5",
+  "HOMEWORK_OTHELLO_DUE_DATE": "Sept 2 by 11:59 AM",
+  "HOMEWORK_OTHELLO_SUBMISSION_DATE": "Sept 5 at 1:05 AM",
+  // Filename is FILE_TEENAGER_2 but with space removed.
+
+  "HOMEWORK_PSYCH_TITLE": "Psychology Nature / Nurture Essay",
+  "HOMEWORK_PSYCH_DUE_DATE": "Sept 1 by 11:59 AM",
+  "HOMEWORK_PSYCH_SUBMISSION_DATE": "Sept 5 at 1:05 AM",
+  // Filename is FILE_TEENAGER_3 but with space removed.
+
+  // ---------------------------------------------------------------
+  // Resume (Added 4/11/26)
+  // ---------------------------------------------------------------
+  "RESUME_TITLE": "Resume",
+  "RESUME_EDUCATION_TITLE": "EDUCATION",
+  "RESUME_MAJOR": "Business Administration",
+  "RESUME_BACHELORS": "Bachelor of Science in Business Administration",
+  // Not sure for each country, but 3.1 GPA is a B grade.
+  // Best GPA would be 4.0 GPA.
+  "RESUME_GPA": "3.1 GPA",
+  "RESUME_WORK_EXPERIENCE_TITLE": "WORK EXPERIENCE",
+  "RESUME_TODO": "todo: put stuff here before submiting resume!!!! idk maybe i put my club experience or something",
+
+  // ---------------------------------------------------------------
+  // Company Emails (Added 4/11/26)
+  // ---------------------------------------------------------------
+  "EMAIL_COMPANY_APPLICATION": "Company Application",
+  "EMAIL_DEAR_APPLICANT": "Dear Applicant,",
+  "EMAIL_LINK_REPLY": "Reply",
+  "EMAIL_LINK_FORWARD": "Forward",
+  "EMAIL_REJECTION": "<i>Company</i> receives hundreds of talented applicants every year. <b>Unfortunately, after reviewing your application,</b> we do not think there is a role opening at htis time that fits your profile.",
+  "EMAIL_ACCEPTANCE": "You did not pass the initial round of interviews, but <b>we are excited to accept you into a training position</b> where you can learn the skills necessary to prepare you.",
 
   // ---------------------------------------------------------------
   // End credits. Each line is its own screen.
@@ -559,9 +599,9 @@
   // Please don't put a virus here :(
   "CREDITS": [
     // { "name": "Your Name", "website": "https://example.com/" },
-    { "name": "Henry" } // Optional website.
+    { "name": "Henry" }, // Optional website.
   ],
 
   // Ignore this last line, it's so each line can have a comma at the end.
-  "": null
+  "": null,
 }
