@@ -175,7 +175,7 @@
   "CHAT_KIDS_HEHE_HI": "хехе привки",
   "CHAT_KIDS_YO": "йо!!!!",
   "CHAT_KIDS_UMMM_BYE": "эмммм пака",
-  "CHAT_KIDS_HEYYY_COM_BACK": "ЭЭЭЭ вернись",
+  "CHAT_KIDS_HEYYY_COM_BACK": "ЭЭЭЭ вернис",
   "CHAT_KIDS_LOLK": "пхпхпх",
   "CHAT_KIDS_OKOKOK": "ококок",
   "CHAT_KIDS_O__O": "o__O",
@@ -253,7 +253,7 @@
   // Memorial chat.
   "CHAT_MEMORIAL_HEY_STEPH_DO_YOU_REMEMBER_THAT_GAME": "Хей, Стеф. Ты помнишь ту игру, в которую мы раньше играли?",
   "CHAT_MEMORIAL_ERROR_SENDING_MESSAGE": "Ошибка отправки сообщения. Аккаунт недоступен.",
-  "CHAT_MEMORIAL_VIEW_PROFILE": "Открыть профиль стефани",
+  "CHAT_MEMORIAL_VIEW_PROFILE": "Открыть профиль Стефани",
   "CHAT_MEMORIAL_LOADING": "Загрузка...",
 
   // Surreal chat prelude, back inside the pet game as kids.
@@ -279,7 +279,7 @@
   "CHAT_SURREAL_MY_PARENTS_ARE_FIGHTING_AGAIN": "ах подожди. мои родители опять ссорятся",
   "CHAT_SURREAL_STEPH": "стеф...",
   "CHAT_SURREAL_YEAH": "да?",
-  "CHAT_SURREAL_WE_WERE_THE_ONLY_ONES": "иногда я думаю о том, мы были единственными, кто понимал друг друга.",
+  "CHAT_SURREAL_WE_WERE_THE_ONLY_ONES": "иногда я думаю о том, что мы были единственными, кто понимал друг друга.",
   "CHAT_SURREAL_WE_GREW_UP_TOGETHER": "мы выросли вместе, не так ли?",
   "CHAT_SURREAL_WHY_DID_YOU_LEAVE_ME_TO_DO_THIS_BY_MYSELF": "зачем ты оставила меня одну со всем этим?",
   "CHAT_SURREAL_I_DIDNT_MEAN_TO": "я не нарочно. мне было просто так тяжело.",
@@ -394,7 +394,7 @@
   // ---------------------------------------------------------------
   "SLOW_DOWN_THERAPIST": [
     "Помедленнее.",
-    "Продолжай толкать. Не отпускай.",
+    "Продолжай тянуть. Не отпускай.",
     "Дыши.",
     "Вдох.",
     "Выдох.",
